@@ -36,7 +36,7 @@ public class SubArrayAndSubString {
 	static void toCalculateAllPossibleSubString(String str)
 	{
 		
-		System.out.println("Possible substrings are -- ");
+		System.out.println("Possible substrings are --- ");
 		
 		for(int i =0; i<str.length();i++)
 		{
