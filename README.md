@@ -1,2 +1,2 @@
 # JavaProject
-Basic to advance logical programming implementation using Java
+Basic to advance logical programming implementation using java
